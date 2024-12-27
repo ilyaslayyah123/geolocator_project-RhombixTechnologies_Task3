@@ -1,4 +1,4 @@
-# Geolocatior Project
+# Geolocator Project
 
 ## Overview
 This project is a Python script that fetches your geolocation (IP address, city, region, country, latitude, and longitude) and displays it on an interactive map. The map is saved as an HTML file that can be opened in a web browser.
